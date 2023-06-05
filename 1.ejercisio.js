@@ -3,7 +3,13 @@ console.log("Además de sabrosita.");
 console.log("He añadido contenido en GitHub.");
 console.log("Se añadió contenido random en GitHub.");
 
-//Commit de agragar una suma
+//Commit de agregar una suma
 
 let suma = 1+1;
 console.log(suma);
+
+
+//Commit de agregar una resta
+
+let resta = 1-1;
+console.log(resta);
