@@ -13,3 +13,9 @@ console.log(suma);
 
 let resta = 1-1;
 console.log(resta);
+
+
+//Commit de agregar una multiplicación
+
+let multiplicacion = 1*1;
+console.log(multiplicacion);
