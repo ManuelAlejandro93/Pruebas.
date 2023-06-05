@@ -25,3 +25,8 @@ console.log(multiplicacion);
 
 let division = 1/1;
 console.log(division);
+
+//Commit de agregar exponencial.
+
+let exponencial = 1**1;
+console.log(exponencial);
