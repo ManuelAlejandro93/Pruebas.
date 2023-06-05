@@ -19,3 +19,9 @@ console.log(resta);
 
 let multiplicacion = 1*1;
 console.log(multiplicacion);
+
+
+//Commit de agregar una división
+
+let division = 1/1;
+console.log(division);
